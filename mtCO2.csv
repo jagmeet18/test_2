@@ -1,4 +1,4 @@
-year,mtCO2
+country,mtCO2
 Afghanistan,0.23885
 Albania,0.15025
 Algeria,92.792
@@ -45,10 +45,10 @@ Comoros,
 Congo,2.2925
 Cook Islands,
 Costa Rica,
-Côte d'Ivoire,4.9293
+CÃ´te d'Ivoire,4.9293
 Croatia,5.3109
 Cuba,2.2091
-Curaçao,
+CuraÃ§ao,
 Cyprus,0.00022
 Czech Republic,18.6812
 Democratic Republic of the Congo,
@@ -158,7 +158,7 @@ Poland,40.5704
 Portugal,11.6488
 Qatar,83.5313
 Republic of South Sudan,
-Réunion,
+RÃ©union,
 Romania,25.5097
 Russian Federation,875.0518
 Rwanda,0.10191
