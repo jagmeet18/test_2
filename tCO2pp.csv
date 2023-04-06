@@ -1,4 +1,4 @@
-country,tCO2PP
+year,tCO2PP
 Afghanistan,0.005956439
 Albania,0.052632316
 Algeria,2.100413444
@@ -45,10 +45,10 @@ Comoros,
 Congo,0.392833483
 Cook Islands,
 Costa Rica,
-CÃ´te d'Ivoire,0.17938916
+Côte d'Ivoire,0.17938916
 Croatia,1.308059954
 Cuba,0.196253287
-CuraÃ§ao,
+Curaçao,
 Cyprus,0.000176822
 Czech Republic,1.777342076
 Democratic Republic of the Congo,
@@ -158,7 +158,7 @@ Poland,1.059065735
 Portugal,1.132039203
 Qatar,31.07291587
 Republic of South Sudan,
-RÃ©union,
+Réunion,
 Romania,1.319793094
 Russian Federation,6.030566408
 Rwanda,0.007570261
